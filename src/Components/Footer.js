@@ -86,12 +86,7 @@ function Footer() {
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
-
-        
-          
-
-          
+        <p>© 2014-2024 Health+. All rights reserved.</p>
      
       </div>
     </div>
